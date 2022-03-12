@@ -1,0 +1,113 @@
+
+.homepage{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.headers{
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.smalltext {
+    font-family: 'Brush Script MT';
+    font-size: 27px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    align-items: center;
+}
+
+.background {
+    background: black;
+    height: 10%;
+}
+
+.nav-list {
+    width: 99%;
+    display: flex;
+    align-items: center;
+}
+.box-main {
+    background-size:cover;
+    display: flex;
+    color: black;
+    max-width: 100%;
+    margin: auto;
+    height: 100%;
+    }
+.whitetext {
+    color: white;
+    font-size: 20px;
+}
+
+.rightshift {
+    position: relative;
+    left: 20px;
+}
+
+.doublerightshift {
+    position: relative;
+    left: 40px;
+}
+
+.downshift {
+    position:relative;
+    top:10px;
+    left: 120px;
+}
+.paragraph {
+    position:relative;
+    top:180px;
+    right: 500px;
+    
+}
+.ptext {
+    font-family: 'Georgia';
+    font-size: 25px;
+}
+.contactheader {
+    position:relative;
+    top: 10px;
+    left: 600px;
+}
+.contacttext {
+    position:relative;
+    top: 60px;
+    left: 420px;
+}
+
+.biggertext {
+    font-family: 'Georgia';
+    font-size: 25px;
+}
+
+.mediumtext {
+    font-family: 'Georgia';
+    font-size: 23px;
+}
+.contactmediumtext {
+    position:relative;
+    top: 150px;
+    left: 10000px;
+}
+.pictureshift {
+    position:relative;
+    width:  40%;
+    height: 20%;
+    top: 2px;
+    left: 420px;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
